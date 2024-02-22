@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f37361b6-6594-4660-ac22-0d976ebfc2cc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Mundo 1/Aulas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 1/Aulas/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 1/Aulas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 1/Aulas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 1/Aulas/.idea/testes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/.idea/POO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetinhos/Calculadora_chapa.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetinhos/Lanchonete/Lanchonete2.0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetinhos/Lanchonete/Lanchonete3.0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetinhos/Lanchonete/lanchonete.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetinhos/Nova pasta/calculadora.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetinhos/Nova pasta/calculadora2.0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetinhos/Nova pasta/desafio-vini.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2cehImPfkmilPgBV8nRXffJI66f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Andrey/Documents/Projetos/Python/Aulas"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f37361b6-6594-4660-ac22-0d976ebfc2cc" name="Changes" comment="" />
+      <created>1708477873518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708477873518</updated>
+    </task>
+    <servers />
+  </component>
+</project>
